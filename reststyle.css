@@ -1,0 +1,160 @@
+.section-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+}
+.section-one__restname{
+    padding-top: 10px;
+}
+.section-one__desc{
+    padding-top: 0px;
+    padding-bottom: 5px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+    
+
+.section-one__desc__home{
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    padding-top: 5x;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+.section-one__desc__receipe{
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    padding-top: 5x;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+.section-one__desc__contact{
+    background-color: black;
+    text-decoration: none;
+    color: white;
+}
+.section-two__image{
+
+    height: 180px;
+    width: 150px;
+    display: inline-block;
+}
+.section-two{
+    margin-top: 10px;
+    height: 300px;
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+    border: solid black 1px;
+    padding: 5px;
+    
+
+}
+.section-two__ordernow{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.section-three__image{
+
+    height: 180px;
+    width: 150px;
+    display: inline-block;
+}
+.section-three{
+    margin-top: 10px;
+    height: 300px;
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+    border: solid black 1px;
+    padding: 5px;
+    
+
+}
+.section-three__ordernow{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.section-four__image{
+
+    height: 180px;
+    width: 150px;
+    display: inline-block;
+}
+.section-four{
+    margin-top: 10px;
+    height: 300px;
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+    border: solid black 1px;
+    padding: 5px;
+    
+
+}
+.section-four__ordernow{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.section-five__image{
+
+    height: 180px;
+    width: 150px;
+    display: inline-block;
+}
+.section-five{
+    margin-top: 10px;
+    height: 300px;
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+    border: solid black 1px;
+    padding: 5px;
+    
+
+}
+.section-five__ordernow{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.container{
+    text-align: center;
+}
+.section-six{
+    background-color: black;
+    color: white;
+}
+.section-six__table{
+    margin: 0 auto;
+}
+.section-six__table__submit{
+    background-color: yellow;
+    color: black;
+    width: 200px;
+}
